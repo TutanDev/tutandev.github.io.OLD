@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact me
+description: icones con link a redes sociales
 ---
 
 
