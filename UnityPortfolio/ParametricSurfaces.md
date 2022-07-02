@@ -1,6 +1,11 @@
+---
+layout: default
+title: Parametric Surfaces
+description: Contemplative Scene showing animated 3D Surfaces calculated with a Compute Shader. 
+---
+
 # Parametric Surfaces
-Contemplative Scene showing animated 3D Surfaces calculated with a Compute Shader. 
-[Go to project](https://github.com/TutanDev/UnityPortfolio/tree/master/Assets/ParametricSurfaces)
+<!-- [Go to project](https://github.com/TutanDev/UnityPortfolio/tree/master/Assets/ParametricSurfaces) -->
 ![MorphGIF](../images/ParametricSurfaces/MorphGIF.gif)
 
 Contemplative Scene where 3 different animated Mathematical surfaces are drown.

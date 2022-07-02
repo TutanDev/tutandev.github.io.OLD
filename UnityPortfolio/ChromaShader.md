@@ -1,10 +1,14 @@
-# Transparency Chroma Shader
+---
+layout: default
+title: Transparency Chroma Shader
+description: Simple shader that removes a color range from a texture with a custom Inspector.
+---
 
-Simple shader that removes a color range from a texture with a custom Inspector.
-[Go to project](https://github.com/TutanDev/UnityPortfolio/tree/master/Assets/TransparentChromaShader)
+<!-- [Go to project](https://github.com/TutanDev/UnityPortfolio/tree/master/Assets/TransparentChromaShader) -->
 
-<img src="https://github.com/TutanDev/UnityPortfolio/blob/documentation/TransparentChromaShader/TransChromaOff.JPG" width="480" height="270" /> <img src="https://github.com/TutanDev/UnityPortfolio/blob/documentation/TransparentChromaShader/TransChromaOn.JPG" width="480" height="270" />
+![TransChromaOff](../images/TransparentChromaShader/TransChromaOff.PNG)
+![TransChromaOn](../images/TransparentChromaShader/TransChromaOn.PNG)
 
 The shader comes with a custom inspactor, creating this I learnt abote ShaderGUI and MaterialEditor classes.
 
-![alt text](https://github.com/TutanDev/UnityPortfolio/blob/documentation/TransparentChromaShader/TransChromaEditor.JPG).
+![TransChromaEditor](../images/TransparentChromaShader/TransChromaEditor.JPG)
