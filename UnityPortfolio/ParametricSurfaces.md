@@ -3,9 +3,10 @@
 [Go to project](https://github.com/TutanDev/UnityPortfolio)  boton de descarga en zip o copiar clone url
 
 # Parametric Surfaces
-Contemplative Scene showing animated 3D Surfaces calculated with a Compute Shader. [Go to project](https://github.com/TutanDev/UnityPortfolio/tree/master/Assets/ParametricSurfaces)
-![alt text](https://github.com/TutanDev/UnityPortfolio/blob/documentation/ParametricSurfaces/MorphGIF.gif) 
-![My helpful screenshot](/assets/screenshot.jpg)
+Contemplative Scene showing animated 3D Surfaces calculated with a Compute Shader. 
+[Go to project](https://github.com/TutanDev/UnityPortfolio/tree/master/Assets/ParametricSurfaces)
+![MorphGIF](../images/ParametricSurfaces/MorphGIF.gif)
+
 Contemplative Scene where 3 different animated Mathematical surfaces are drown.
 
 The points of the surfaces are drown proceduraly with cubes colored based on the world position.
@@ -19,11 +20,13 @@ The code contains 3 surfaces and the logic to transition between them:
 ### Sphere
 ![Sphere](../images/ParametricSurfaces/Sphere.PNG)
 ![Sphere2](../images/ParametricSurfaces/Sphere2.PNG)
-<img src="https://github.com/TutanDev/UnityPortfolio/blob/documentation/ParametricSurfaces/SphereGIF.gif" width="440" height="330" />
+![SphereGIF](../images/ParametricSurfaces/SphereGIF.gif)
 
 ### Paraboloid
-<img src="https://github.com/TutanDev/UnityPortfolio/blob/documentation/ParametricSurfaces/Paraboloid.PNG" width="440" height="330" /> <img src="https://github.com/TutanDev/UnityPortfolio/blob/documentation/ParametricSurfaces/Paraboloid2.PNG" width="440" height="330" />
-<img src="https://github.com/TutanDev/UnityPortfolio/blob/documentation/ParametricSurfaces/ParaboloidGIF.gif" width="440" height="330" />
+![Paraboloid](../images/ParametricSurfaces/Paraboloid.PNG)
+![Paraboloid2](../images/ParametricSurfaces/Paraboloid2.PNG)
+![ParaboloidGIF](../images/ParametricSurfaces/ParaboloidGIF.gif)
 
 ### Kleant Bottle
-<img src="https://github.com/TutanDev/UnityPortfolio/blob/documentation/ParametricSurfaces/Klein.PNG" width="440" height="330" /> <img src="https://github.com/TutanDev/UnityPortfolio/blob/documentation/ParametricSurfaces/KleinGIF.gif" width="440" height="330" />
+![Klein](../images/ParametricSurfaces/Klein.PNG)
+![KleinGIF](../images/ParametricSurfaces/KleinGIF.gif)
