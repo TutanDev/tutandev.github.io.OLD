@@ -1,4 +1,4 @@
 ## Little experiments
-* [Parametric surfaces](./UnityPortfolio/ParametricSurfaces.md)
-* [Chroma Shader](./UnityPortfolio/ChromaShader.md)
-* [Contact me](./contact.md)
+* [Parametric surfaces](./UnityPortfolio/ParametricSurfaces.html)
+* [Chroma Shader](./UnityPortfolio/ChromaShader.html)
+* [Contact me](./contact.html)
