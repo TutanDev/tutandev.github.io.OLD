@@ -16,4 +16,5 @@ description: [Contact me](./CONTACT.md)
 include:
   - README.md
   - CONTACT.md
-  - INDEX_UnityPortfolio.md
+  - ParametricSurfaces.md
+  - ChromaShader.md
