@@ -1,5 +1,7 @@
-# Contact me
+# Unity Portfolio
 
-* [GitHub](https://github.com/TutanDev/)
-* [ArtStation](https://tutan09.artstation.com/)
-* [Linkedin](https://www.linkedin.com/in/andresespinodelr%C3%ADo/)
+[Go to project](https://github.com/TutanDev/UnityPortfolio)  boton de descarga en zip o copiar clone url
+
+## Learning experiments:
+  - **Transparency Chroma:** Simple chroma shader with a custom Inspector. [Go to project](https://github.com/TutanDev/UnityPortfolio/tree/master/Assets/TransparentChromaShader)
+  - **Parametric Surfaces:** Contemplative Scene showing animated 3D Surfaces calculated with a Compute Shader. [Go to project](https://github.com/TutanDev/UnityPortfolio/tree/master/Assets/ParametricSurfaces)
