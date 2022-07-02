@@ -5,7 +5,7 @@
 # Parametric Surfaces
 Contemplative Scene showing animated 3D Surfaces calculated with a Compute Shader. [Go to project](https://github.com/TutanDev/UnityPortfolio/tree/master/Assets/ParametricSurfaces)
 ![alt text](https://github.com/TutanDev/UnityPortfolio/blob/documentation/ParametricSurfaces/MorphGIF.gif) 
-
+![My helpful screenshot](/assets/screenshot.jpg)
 Contemplative Scene where 3 different animated Mathematical surfaces are drown.
 
 The points of the surfaces are drown proceduraly with cubes colored based on the world position.
@@ -17,7 +17,8 @@ The calculation ob the points positions is done using a Compute Shader.
 The code contains 3 surfaces and the logic to transition between them:
 
 ### Sphere
-<img src="https://github.com/TutanDev/UnityPortfolio/blob/documentation/ParametricSurfaces/Sphere.PNG" width="440" height="330" /> <img src="https://github.com/TutanDev/UnityPortfolio/blob/documentation/ParametricSurfaces/Sphere2.PNG" width="440" height="330" />
+![Sphere](/images/ParametricSurfaces/sphere.png)
+![Sphere2](/images/ParametricSurfaces/sphere2.png)
 <img src="https://github.com/TutanDev/UnityPortfolio/blob/documentation/ParametricSurfaces/SphereGIF.gif" width="440" height="330" />
 
 ### Paraboloid
