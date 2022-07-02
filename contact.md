@@ -1,8 +1,4 @@
----
-layout: page
-title: "CONTACT ME"
-permalink: /contact/
----
+
 
 
 
