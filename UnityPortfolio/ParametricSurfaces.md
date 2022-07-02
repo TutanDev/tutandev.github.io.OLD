@@ -17,8 +17,8 @@ The calculation ob the points positions is done using a Compute Shader.
 The code contains 3 surfaces and the logic to transition between them:
 
 ### Sphere
-![Sphere](/images/ParametricSurfaces/sphere.PNG)
-![Sphere2](/images/ParametricSurfaces/sphere2.PNG)
+![Sphere](../images/ParametricSurfaces/sphere.PNG)
+![Sphere2](../images/ParametricSurfaces/sphere2.PNG)
 <img src="https://github.com/TutanDev/UnityPortfolio/blob/documentation/ParametricSurfaces/SphereGIF.gif" width="440" height="330" />
 
 ### Paraboloid
