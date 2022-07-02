@@ -15,6 +15,6 @@ description: [Contact me](./CONTACT.md)
   
 include:
   - README.md
-  - CONTACT.md
+  - contact.md
   - ParametricSurfaces.md
   - ChromaShader.md
