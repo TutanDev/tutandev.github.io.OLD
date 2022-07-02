@@ -11,7 +11,7 @@ relative_links:
   
 
 title: TutanDev
-description: Welcome to my personal page
+description: [Contact me](./CONTACT.md)
   
 include:
   - README.md
