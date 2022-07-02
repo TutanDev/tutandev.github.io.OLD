@@ -1,7 +1,3 @@
-## TutanDev
-
-Welcome to my personal page
-
 [Contact me](./CONTACT.md)       
 
 
