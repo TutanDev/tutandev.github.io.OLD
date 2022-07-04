@@ -9,8 +9,6 @@
     top: 0px;
     height: 60px;
     width: 100%;
-    border-bottom: 4px solid #434343;
-    box-shadow: 0px 1px 3px rgba(0,0,0,.25);
   
     ul {
       list-style-type: none;
@@ -22,13 +20,13 @@
         font-weight: normal;
         list-style: none;
         display: inline;
-        color: white;
+        color: rgb(46, 10, 250);
         line-height: 50px;
         text-shadow: 0px 1px 0px rgba(0,0,0,.2);
         font-size: 14px;
   
         a {
-          color: white;
+          color: rgb(255, 20, 20);
           border: 1px solid #5d910b;
           background: linear-gradient(#93bd20, #659e10);
           border-radius: 2px;
