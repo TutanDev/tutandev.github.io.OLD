@@ -16,7 +16,7 @@
       <div id="header">
         <nav>
           <ul>
-            <img src="./images/logo/logoT256.png">
+            <img src="./images/logo/logoT256.png" style="float:right;width:42px;height:42px;">
             {% if site.show_downloads %}
               <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
               <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
@@ -30,7 +30,7 @@
 
       <section>
         <div id="title">
-          <h1><img src="./images/logo/logo1024.png" alt="LOGO T" style="float:left">
+          <h1><img src="./images/logo/logo256.png" alt="LOGO T" style="float:left">
             {{ page.title | default: site.github.repository_name }}</h1>
           <p>{{ page.description | default: site.github.project_tagline }}</p>
           <hr>
