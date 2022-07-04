@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: default
 title: TutanDev
 description: Welcome to my personal page
 ---
