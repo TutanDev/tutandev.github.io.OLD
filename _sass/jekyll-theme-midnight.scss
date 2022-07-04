@@ -235,7 +235,8 @@ dt {
     max-width: 650px;
     margin: 0 auto;
     padding: 0 10px;
-    background: #ffffff;
+    background: #353535;
+    opacity: 0;
     margin: 6px auto;
 
     ul {
@@ -248,7 +249,8 @@ dt {
         font-weight: normal;
         list-style: none;
         display: inline;
-        color: white;
+        color: 3252525;
+        opacity: 0;
         line-height: 50px;
         text-shadow: 0px 1px 0px rgba(0,0,0,.2);
         font-size: 14px;
